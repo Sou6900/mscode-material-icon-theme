@@ -1,4 +1,4 @@
-<p style="display:flex;justify-content:center;">
+<p align="center" style="display:flex;justify-content:center;">
 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/logo.png" alt="logo" style="width:120px;">
 
@@ -8,7 +8,7 @@
 
 <p align="center"><em>Material Design icons for Mono Studio Code (MSCode)</em></p>
 <p align="center">
-<a href="https://github.com/mscode-material-icon-theme"><img src="https://img.shields.io/github/stars/mscode-material-icon-theme?style=for-the-badge&label=Star%20on%20GitHub&colorA=263238&colorB=1976D2" alt="Star on GitHub"></a>
+<a href="https://github.com/Sou6900/mscode-material-icon-theme"><img src="https://img.shields.io/github/stars/mscode-material-icon-theme?style=for-the-badge&label=Star%20on%20GitHub&colorA=263238&colorB=1976D2" alt="Star on GitHub"></a>
 </p>
 <br>
 
