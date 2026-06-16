@@ -20,11 +20,12 @@
 
 ## Getting Started
  1. **Install:** Open the MSCode Extension Marketplace and search for **Material Icon Theme**.
- 2. **Activate:** Open the command palette (Ctrl+Shift+P), type Material Icons: Activate Icon Theme, and select it.
- 3. **Customization:** Use the command palette to change colors, opacity, and folder styles.
+ 2. **Activate:** Click Setting Icon on Sidebar -> Click Themes -> Icon Theme -> type Material Icons: Activate Icon Theme, and select it.
+
+ ![Choose Icon Theme](https://i.postimg.cc/c4ZQxZXG/7isnbds9jwh6w8whehshgsuwiw.jpg)
+ 
 ## Features
  * **Material Design:** Beautifully crafted icons for files and folders.
- * **Deep Customization:** Adjust colors, saturation, and opacity via settings.
  * **Icon Packs:** Built-in support for Angular, React, and more.
  * **Dynamic:** Actively maintained with support for hundreds of languages.
 ## ❤️ Support
