@@ -1,0 +1,27 @@
+{
+  "id": "material-icon-theme",
+  "name": "Material Icon Theme",
+  "description": "Material Design Icons for MS Code",
+  "version": "1.0.0",
+  "category": "Themes",
+  "tags": [
+    "icons",
+    "theme",
+    "material",
+    "icon-theme",
+    "customization"
+  ],
+  "icon": "logo.png",
+  "readme":"readme.md",
+  "changelog":"changelog.md",
+  "license":"LICENSE.txt",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "material-icon-theme",
+        "label": "Material Icon Theme",
+        "path": "./dist/material-icons.json"
+      }
+    ]
+  }
+}
