@@ -14,9 +14,9 @@
 
 ### Icon Overviews
 <details><summary><b>Show all available file icons</b></summary>
-<img src="[https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/main/images/fileIcons.png](https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/main/images/fileIcons.png)" alt="file icons"></details>
+<img src="https://i.postimg.cc/7YpxkYx3/file-Icons.png" alt="file icons"></details>
 <details><summary><b>Show all available folder icons</b></summary>
-<img src="[https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/main/images/folderIcons.png](https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/main/images/folderIcons.png)" alt="folder icons"></details>
+<img src="https://i.postimg.cc/yYJVtSCw/folder-Icons.png" alt="folder icons"></details>
 
 ## Getting Started
  1. **Install:** Open the MSCode Extension Marketplace and search for **Material Icon Theme**.
@@ -32,3 +32,12 @@ If you find this theme useful in your **MSCode** workflow, please consider suppo
  * 🌟 Star on GitHub
  * 💖 Become a Sponsor
 **Optimized for the Mono Studio Ecosystem**
+
+## ⚖️ Credits & Acknowledgements
+This extension is a specialized port of the fantastic [Material Icon Theme for VS Code](https://github.com/PKief/vscode-material-icon-theme) created by **Philipp Kief**. 
+
+All original icon designs and assets belong to the original author. This project simply adapts and optimizes the theme to run natively within the **Mono Studio Code (MSCode)** ecosystem. 
+
+* **Original Author:** [Philipp Kief](https://github.com/PKief)
+* **Original Repository:** [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+* **License:** Distributed under the [MIT License](https://github.com/PKief/vscode-material-icon-theme/blob/main/LICENSE).
